@@ -6,6 +6,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0417-pacific-atlantic-water-flow) |
+| [1020-number-of-enclaves](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -14,6 +15,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0417-pacific-atlantic-water-flow) |
+| [1020-number-of-enclaves](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -30,6 +32,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0417-pacific-atlantic-water-flow) |
+| [1020-number-of-enclaves](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
@@ -37,6 +40,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0417-pacific-atlantic-water-flow) |
+| [1020-number-of-enclaves](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Graph Theory
@@ -66,5 +70,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
