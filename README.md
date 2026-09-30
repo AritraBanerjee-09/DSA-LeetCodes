@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0977-squares-of-a-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
