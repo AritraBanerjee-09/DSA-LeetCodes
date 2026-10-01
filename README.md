@@ -95,4 +95,16 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
