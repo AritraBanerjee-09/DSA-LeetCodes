@@ -101,17 +101,24 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
