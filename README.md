@@ -103,12 +103,14 @@
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,4 +127,5 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
