@@ -128,4 +128,8 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
