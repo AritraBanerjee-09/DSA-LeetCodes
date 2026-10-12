@@ -14,6 +14,7 @@
 | [1254-number-of-closed-islands](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0001-two-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,8 +130,13 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Database
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
