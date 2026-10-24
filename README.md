@@ -28,6 +28,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0844-backspace-string-compare) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@
 | [0015-3sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
+| [0844-backspace-string-compare](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -114,6 +117,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
