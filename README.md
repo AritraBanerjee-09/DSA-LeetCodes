@@ -148,6 +148,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0176-second-highest-salary) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1757-recyclable-and-low-fat-products) |
 ## Bit Manipulation
 |  |
