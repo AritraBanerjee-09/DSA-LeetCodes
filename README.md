@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
