@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -147,6 +148,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0134-gas-station) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
