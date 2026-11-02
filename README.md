@@ -15,6 +15,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0560-subarray-sum-equals-k](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0704-binary-search](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0977-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1020-number-of-enclaves) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
