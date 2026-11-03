@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -121,6 +122,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0704-binary-search) |
 ## String
