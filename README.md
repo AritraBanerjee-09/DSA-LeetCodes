@@ -104,6 +104,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0018-4sum) |
+| [0141-linked-list-cycle](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0844-backspace-string-compare) |
@@ -121,6 +122,7 @@
 | [0001-two-sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
@@ -198,4 +200,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
