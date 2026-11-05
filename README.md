@@ -147,6 +147,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1903-largest-odd-number-in-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0860-lemonade-change](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1903-largest-odd-number-in-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1903-largest-odd-number-in-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Database
 |  |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
