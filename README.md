@@ -18,6 +18,7 @@
 | [0134-gas-station](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0169-majority-element) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0560-subarray-sum-equals-k](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0560-subarray-sum-equals-k) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0169-majority-element) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -124,6 +126,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
@@ -204,6 +207,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -216,4 +220,12 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1903-largest-odd-number-in-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
