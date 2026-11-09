@@ -31,6 +31,7 @@
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/1903-largest-odd-number-in-string) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Counting
 |  |
 | ------- |
@@ -228,4 +231,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
