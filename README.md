@@ -52,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0141-linked-list-cycle) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0151-reverse-words-in-a-string) |
@@ -243,4 +246,8 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
