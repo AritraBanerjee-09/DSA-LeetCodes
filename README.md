@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -55,6 +56,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AritraBanerjee-09/DSA-LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
